@@ -1,0 +1,83 @@
+.header{
+    background-color :rgb(255, 0, 128);
+    display : flex;
+    justify-content: space-between;
+}
+
+.panda{
+    display : flex;
+    color:greenyellow
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:magenta
+}
+
+.chameleon{
+    display : flex;
+    color:red
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+
+.cicada{
+    display : flex;
+    color:black
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:red
+}
+
+.pigeon{
+    display : flex;
+    color:brown
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:black
+}
+
+.teddy{
+    display : flex;
+    color:magenta
+}
+
+.teddy-text{
+    display: flex;
+    justify-content: space-between;
+    color:brown
+}
+
+.camel{
+    display : flex;
+    color:palegreen
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:gold
+}
+
+    h1{
+        text-align: center;
+        margin-left: 30px;
+        color : greenyellow
+}
+
+body{
+    background: blue;
+    color: whitesmoke;
+}
+
